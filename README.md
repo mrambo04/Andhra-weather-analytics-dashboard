@@ -1,15 +1,68 @@
-# Andhra Weather Analytics Dashboard
+🌦️ Andhra Weather Analytics Dashboard (Power BI)
 
-Live demo: https://mrambo04.github.io/Andhra-weather-analytics-dashboard/
+Live Demo: https://mrambo04.github.io/Andhra-weather-analytics-dashboard/
 
-**Overview**  
-A Power BI–style weather dashboard built for multiple cities in Andhra Pradesh (Visakhapatnam / Vizag, Vizianagaram, Tirupati, Vijayawada, Hyderabad). This static site displays screenshots of the interactive dashboard and provides a downloadable PDF report.
+This project is an end-to-end Weather Analytics Dashboard built in Power BI, visualizing real-time and forecast weather data for major cities in Andhra Pradesh:
+-Visakhapatnam (Vizag)
+-Vizianagaram
+-Tirupati
+-Vijayawada
+-Hyderabad
+The dashboard provides a clean, modern UI with insights into temperature, humidity, AQI, rainfall chance, pressure, forecast trends, and more.
 
-**Features**
-- Clean dark UI designed for quick glance insights
-- Forecast chart, AQI gauge, city quick-cards and chance-of-rain bars
-- Watermark and author credit
-- Responsive single-page preview (hosted on GitHub Pages)
+📌 Project Overview
+This Power BI dashboard summarizes weather conditions using custom measures, DAX calculations, conditional formatting, and a professional UI layout inspired by modern weather apps.
+
+The visualizations highlight:
+
+-🌡️ Current Temperature (°C)
+-⛅ Weather Condition & Icons
+-📅 7-Day Forecast Line Chart
+-🌧️ Chance of Rain (Bar Chart)
+-🌫️ Air Quality Index (AQI Gauge + Pollutant Levels)
+-🌪️ Wind Speed, Humidity, Visibility, UV Index
+-🕒 Sunrise & Sunset Times
+-🎨 Custom Watermark & Themed UI
+
+This GitHub project hosts a live preview of the dashboard using GitHub Pages.
+
+🛠️ Tools & Technologies Used
+-Power BI Desktop
+-DAX (Data Analysis Expressions)
+-Custom Measures for AQI, Temperature & Forecast
+-GitHub Pages for hosting
+-HTML/CSS (for the web preview page)
+
+📊 Features
+✔ Multi-city weather comparison
+
+Five major AP cities displayed with quick temperature cards.
+
+✔ High-quality UI
+
+Dark theme dashboard with glowing cards, icons, and custom color palettes.
+
+✔ Forecast visualization
+
+7-day forecast line chart with dynamic labels.
+
+✔ AQI insights
+
+Circular gauge + pollutant breakdown for PM10, PM2.5, SO2, CO, O3, and NO2.
+
+✔ Conditional DAX measures
+
+Temperature formatting
+
+AQI color coding
+
+AQI status text
+
+AQI health suggestion logic
+
+✔ Real-time look and feel
+
+Includes columns for live data structure and custom formatting.
 
 **Files**
 - `index.html` — web page used for GitHub Pages
