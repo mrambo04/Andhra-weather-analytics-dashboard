@@ -17,13 +17,21 @@ This Power BI dashboard summarizes weather conditions using custom measures, DAX
 *The visualizations highlight:*
 
 -🌡️ Current Temperature (°C)
+
 -⛅ Weather Condition & Icons
+
 -📅 7-Day Forecast Line Chart
+
 -🌧️ Chance of Rain (Bar Chart)
+
 -🌫️ Air Quality Index (AQI Gauge + Pollutant Levels)
+
 -🌪️ Wind Speed, Humidity, Visibility, UV Index
+
 -🕒 Sunrise & Sunset Times
+
 -🎨 Custom Watermark & Themed UI
+
 
 This GitHub project hosts a live preview of the dashboard using GitHub Pages.
 
