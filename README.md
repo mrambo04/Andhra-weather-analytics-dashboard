@@ -56,47 +56,36 @@ This GitHub project hosts a live preview of the dashboard using GitHub Pages.
 
 - ✔ Multi-city weather comparison
 
-Five major AP cities displayed with quick temperature cards.
+  Five major AP cities displayed with quick temperature cards.
 
 - ✔ High-quality UI
 
-Dark theme dashboard with glowing cards, icons, and custom color palettes.
+  Dark theme dashboard with glowing cards, icons, and custom color palettes.
 
 - ✔ Forecast visualization
 
-7-day forecast line chart with dynamic labels.
+  7-day forecast line chart with dynamic labels.
 
 - ✔ AQI insights
 
-Circular gauge + pollutant breakdown for PM10, PM2.5, SO2, CO, O3, and NO2.
+  Circular gauge + pollutant breakdown for PM10, PM2.5, SO2, CO, O3, and NO2.
 
 - ✔ Conditional DAX measures
 
-Temperature formatting
+  Temperature formatting
 
-AQI color coding
+  AQI color coding
 
-AQI status text
+  AQI status text
 
-AQI health suggestion logic
+  AQI health suggestion logic
 
 - ✔ Real-time look and feel
 
-Includes columns for live data structure and custom formatting.
+  Includes columns for live data structure and custom formatting.
 
-**Files**
-- `index.html` — web page used for GitHub Pages
-- `dashboard.png` — main dashboard screenshot (replace with your file)
-- `dashboard.pdf` — optional exported PDF of the report
-
-**How to reproduce**
-1. Build the dashboard in Power BI Desktop.
-2. Export: File → Export → PDF and take high-quality screenshots of each page.
-3. Place the screenshots and an `index.html` file into a public GitHub repo.
-4. Enable GitHub Pages under **Settings → Pages** (branch `main`, root `/`).
 
 **Notes**
-- This site is a static preview of a Power BI report. For interactive embedding use Power BI Service (requires work/school account) or Power BI Embedded.
 - Contact: Ram — Data Analyst
 
 **License**
