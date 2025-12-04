@@ -96,8 +96,15 @@ This GitHub project hosts a live preview of the dashboard using GitHub Pages.
   
 - DAX (custom measures)
 
+## **📎 Files Included in This Repository**
+
+- Weather_Dashboard.pbix — main Power BI dashboard
+- README.md — project documentation
+
 **Notes**
 - Contact: Ram — Data Analyst
 
 **License**
 MIT
+
+***⭐ If you like this project, consider starring the repo!***
