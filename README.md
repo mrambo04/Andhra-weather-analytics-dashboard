@@ -3,11 +3,17 @@
 Live Demo: https://mrambo04.github.io/Andhra-weather-analytics-dashboard/
 
 This project is an end-to-end Weather Analytics Dashboard built in Power BI, visualizing real-time and forecast weather data for major cities in Andhra Pradesh:
+
 -Visakhapatnam (Vizag)
+
 -Vizianagaram
+
 -Tirupati
+
 -Vijayawada
+
 -Hyderabad
+
 The dashboard provides a clean, modern UI with insights into temperature, humidity, AQI, rainfall chance, pressure, forecast trends, and more.
 
 **📌 Project Overview**
@@ -38,23 +44,38 @@ This GitHub project hosts a live preview of the dashboard using GitHub Pages.
 **🛠️ Tools & Technologies Used**
 
 -Power BI Desktop
+
 -DAX (Data Analysis Expressions)
+
 -Custom Measures for AQI, Temperature & Forecast
+
 -GitHub Pages for hosting
+
 -HTML/CSS (for the web preview page)
+
 
 **📊 Features**
 
 ✔ Multi-city weather comparison
+
 Five major AP cities displayed with quick temperature cards.
+
 ✔ High-quality UI
+
 Dark theme dashboard with glowing cards, icons, and custom color palettes.
+
 ✔ Forecast visualization
+
 7-day forecast line chart with dynamic labels.
+
 ✔ AQI insights
+
 Circular gauge + pollutant breakdown for PM10, PM2.5, SO2, CO, O3, and NO2.
+
 ✔ Conditional DAX measures
+
 Temperature formatting
+
 AQI color coding
 
 AQI status text
