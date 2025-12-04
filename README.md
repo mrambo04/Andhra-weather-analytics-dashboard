@@ -84,6 +84,17 @@ This GitHub project hosts a live preview of the dashboard using GitHub Pages.
 
   Includes columns for live data structure and custom formatting.
 
+## **🛠️ Built With**
+
+- Power BI Desktop
+  
+- Power BI Service (for publishing)
+  
+- Power Query (API connection & transformations)
+  
+- Weather API (live JSON feed)
+  
+- DAX (custom measures)
 
 **Notes**
 - Contact: Ram — Data Analyst
