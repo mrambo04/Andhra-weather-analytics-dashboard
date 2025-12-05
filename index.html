@@ -1,52 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ram | Weather Dashboard</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andhra Weather Analytics Dashboard | Ram</title>
 
     <style>
         body {
-            background-color: #0f0f0f;
+            margin: 0;
+            background: #0e0e0e;
             color: white;
             font-family: Arial, sans-serif;
             text-align: center;
-            margin: 0;
-            padding: 0;
         }
 
         .container {
             width: 100%;
-            max-width: 1100px;
+            max-width: 1150px;
             margin: auto;
             padding: 20px;
         }
 
-        img.dashboard {
+        h1 {
+            font-size: 26px;
+            margin-bottom: 5px;
+        }
+
+        p.subtitle {
+            color: #bcbcbc;
+            font-size: 14px;
+        }
+
+        .dashboard-img {
             width: 100%;
-            border-radius: 12px;
-            box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+            border-radius: 14px;
+            margin-top: 20px;
+            box-shadow: 0px 0px 25px rgba(255, 255, 255, 0.08);
+        }
+
+        .download-btn {
+            display: inline-block;
+            margin-top: 18px;
+            padding: 10px 18px;
+            background: #ff8a3d;
+            color: black;
+            font-weight: bold;
+            border-radius: 8px;
+            text-decoration: none;
         }
 
         footer {
-            margin-top: 20px;
+            margin-top: 25px;
             font-size: 14px;
-            color: #bbbbbb;
+            color: #9c9c9c;
+        }
+
+        .watermark {
+            margin-top: 12px;
+            font-size: 13px;
+            color: #646464;
         }
     </style>
 </head>
 
 <body>
-    <div class="container">
-        <h1>Weather Dashboard by Ram</h1>
-        <p>Live Preview of Power BI Weather Report</p>
 
-        <img class="dashboard" src="Power BI Dashboard/Screenshot 2025-12-03 151112.png" alt="Weather Dashboard" />
+    <div class="container">
+
+        <h1>Andhra Weather Analytics Dashboard</h1>
+        <p class="subtitle">A Power BI Dashboard designed by Ram</p>
+
+        <img src="Power BI Dashboard/Screenshot 2025-12-03 151112.png" class="dashboard-img" alt="Andhra Weather Dashboard">
+
+        <div class="watermark">© 2025 Ram — Data Analyst</div>
 
         <footer>
-            © 2025 Ram | Data Analyst  
+            Built with Power BI • Hosted on GitHub Pages
         </footer>
     </div>
+
 </body>
 </html>
 
