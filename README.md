@@ -11,7 +11,7 @@ Live Demo: https://mrambo04.github.io/Andhra-weather-analytics-dashboard/
  
 This project is an end-to-end Weather Analytics Dashboard built in Power BI, visualizing real-time and forecast weather data for major cities in Andhra Pradesh:
 
-- Visakhapatnam (Vizag) 
+- Visakhapatnam (Vizag)  
  
 - Vizianagaram   
  
