@@ -19,7 +19,7 @@ This project is an end-to-end Weather Analytics Dashboard built in Power BI, vis
 
 - Vijayawada
  
-- Hyderabad
+- Hyderabad 
 
 The dashboard provides a clean, modern UI with insights into temperature, humidity, AQI, rainfall chance, pressure, forecast trends, and more.
 
