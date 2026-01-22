@@ -3,7 +3,7 @@
 <img width="873" height="487" alt="Andhra Pradesh Weather Dashboard" src="https://github.com/user-attachments/assets/219d3533-900b-478b-8e64-a22a3f3ad6ed" />
 
 
-https://github.com/user-attachments/assets/6c477163-e8d4-41c3-b761-f5f74e1e620f
+https://github.com/user-attachments/assets/6c477163-e8d4-41c3-b761-f5f74e1e620f 
  
 
  
